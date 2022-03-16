@@ -243,18 +243,9 @@ http://stariptv.org:8080/hamza2022/123456/93510
 http://stariptv.org:8080/hamza2022/123456/93508
 #EXTINF:-1,TR: TURKAsat KOMEDI HD
 http://stariptv.org:8080/hamza2022/123456/93507
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD TR VIP SPORTS" tvg-logo="" group-title="VIP Sports",beIN Sports 1 HD TR VIP SPORTS
+#EXTINF:-1,TR : LİGTV1
 http://tugatv.123tv.to:8080/vB3GmXqZcp/6g3hCUDLbd/19054
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 FHD TR VIP SPORTS" tvg-logo="" group-title="VIP Sports",beIN Sports 1 FHD TR VIP SPORTS
+#EXTINF:-1, TR : LİGTV1FHD
 http://tugatv.123tv.to:8080/vB3GmXqZcp/6g3hCUDLbd/19050
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD TR VIP SPORTS" tvg-logo="" group-title="VIP Sports",beIN Sports 2 HD TR VIP SPORTS
+#EXTINF:-1, TR : LİGTV1
 http://tugatv.123tv.to:8080/vB3GmXqZcp/6g3hCUDLbd/19053
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 FHD TR VIP SPORTS" tvg-logo="" group-title="VIP Sports",beIN Sports 2 FHD TR VIP SPORTS
-http://tugatv.123tv.to:8080/vB3GmXqZcp/6g3hCUDLbd/19049
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD TR VIP SPORTS" tvg-logo="" group-title="VIP Sports",beIN Sports 3 HD TR VIP SPORTS
-http://tugatv.123tv.to:8080/vB3GmXqZcp/6g3hCUDLbd/19052
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FHD TR VIP SPORTS" tvg-logo="" group-title="VIP Sports",beIN Sports 3 FHD TR VIP SPORTS
-http://tugatv.123tv.to:8080/vB3GmXqZcp/6g3hCUDLbd/19048
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD TR VIP SPORTS" tvg-logo="" group-title="VIP Sports",beIN Sports 4 HD TR VIP SPORTS
-http://tugatv.123tv.to:8080/vB3GmXqZcp/6g3hCUDLbd/19051
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 FHD TR VIP SPORTS" tvg-logo="" group-title="VIP Sports",beIN Sports 4 FHD TR VIP SPORTS
