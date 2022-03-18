@@ -1,21 +1,247 @@
 #EXTM3U
 #EXTINF:-1,TR: beIN Sports 1 HD
 http://stariptv.org:8080/hamza2022/123456/93433
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 8" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 8
-http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/47360
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 9" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 9
-http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/47361
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 10" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 10
-http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/47362
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 11" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 11
-http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34974
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 12" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 12
-http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34973
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 13" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 13
-http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34972
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 14" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 14
-http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34971
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 15" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 15
-http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34970.ts
-#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 16" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 16
-http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 8" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 8#EXTINF:-1,TR: beIN Sports 1 HD
+http://stariptv.org:8080/hamza2022/123456/93433
+#EXTINF:-1,TR:  BEINSPORTS 1
+http://stariptv.org:8080/hamza2022/123456/93432
+#EXTINF:-1,TR: BEINSPORTS 1 HD L
+http://stariptv.org:8080/hamza2022/123456/93431
+#EXTINF:-1,TR: Bein Spor 1 720
+http://stariptv.org:8080/hamza2022/123456/93424
+#EXTINF:-1,TR: beIN Sports 1 HD L
+http://stariptv.org:8080/hamza2022/123456/93422
+#EXTINF:-1,TR: beIN SPORTS 1 1080p HD
+http://stariptv.org:8080/hamza2022/123456/93420
+#EXTINF:-1,TR: Bein sport 720
+http://stariptv.org:8080/hamza2022/123456/93418
+#EXTINF:-1,TR: BEIN SPORTS 1 BK
+http://stariptv.org:8080/hamza2022/123456/93417
+#EXTINF:-1,TR: BEIN SPORT 1 (Mobil)
+http://stariptv.org:8080/hamza2022/123456/93416
+#EXTINF:-1,TR: BEiN SPORT-1 SD
+http://stariptv.org:8080/hamza2022/123456/93415
+#EXTINF:-1,TR: BEIN SPORTS 1 50 fps
+http://stariptv.org:8080/hamza2022/123456/93414
+#EXTINF:-1,TR: BEIN SPORTS 3 HD 1080
+http://stariptv.org:8080/hamza2022/123456/93385
+#EXTINF:-1,TR: BEIN SPORTS 4K BEIN IZ
+http://stariptv.org:8080/hamza2022/123456/93384
+#EXTINF:-1,TR: BEIN SPORTS 4 HD 1080
+http://stariptv.org:8080/hamza2022/123456/93383
+#EXTINF:-1,TR: BEIN SPORTS 2 HD 1080
+http://stariptv.org:8080/hamza2022/123456/93382
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://stariptv.org:8080/hamza2022/123456/93381
+#EXTINF:-1,TR: BEIN SPORTS 1 HD 1080
+http://stariptv.org:8080/hamza2022/123456/93380
+#EXTINF:-1,TR: beIN SPORTS 1 SD
+http://stariptv.org:8080/hamza2022/123456/93306
+#EXTINF:-1,TR: beIN SPORTS 1 1080p
+http://stariptv.org:8080/hamza2022/123456/93305
+#EXTINF:-1,TR: beIN SPORTS 1 720p
+http://stariptv.org:8080/hamza2022/123456/93304
+#EXTINF:-1,TR: beIN SPORTS 2
+http://stariptv.org:8080/hamza2022/123456/93303
+#EXTINF:-1,TR: beIN SPORTS 3
+http://stariptv.org:8080/hamza2022/123456/93302
+#EXTINF:-1,TR: beIN SPORTS 4
+http://stariptv.org:8080/hamza2022/123456/93301
+#EXTINF:-1,TR: beIN SPORTS HABER
+http://stariptv.org:8080/hamza2022/123456/93300
+#EXTINF:-1,TR: beIN SPORTS Max 1
+http://stariptv.org:8080/hamza2022/123456/93299
+#EXTINF:-1,TR: beIN SPORTS MAX 2
+http://stariptv.org:8080/hamza2022/123456/93298
+#EXTINF:-1,TR: beIN BOX OFFICE 1 HD
+http://stariptv.org:8080/hamza2022/123456/93478
+#EXTINF:-1,TR: beIN BOX OFFICE 2 HD
+http://stariptv.org:8080/hamza2022/123456/93477
+#EXTINF:-1,TR: beIN BOX OFFICE 3 HD
+http://stariptv.org:8080/hamza2022/123456/93476
+#EXTINF:-1,TR: beIN MOVIES PREMIER
+http://stariptv.org:8080/hamza2022/123456/93326
+#EXTINF:-1,TR: beIN MOVIES PREMIER 2
+http://stariptv.org:8080/hamza2022/123456/93325
+#EXTINF:-1,TR: beIN MOVIES STARS
+http://stariptv.org:8080/hamza2022/123456/93324
+#EXTINF:-1,TR: beIN MOVIES ACTION
+http://stariptv.org:8080/hamza2022/123456/93328
+#EXTINF:-1,TR: beIN Movies Action 2 HD
+http://stariptv.org:8080/hamza2022/123456/93438
+#EXTINF:-1,TR: BeIN H&E HD
+http://stariptv.org:8080/hamza2022/123456/93504
+#EXTINF:-1,TR: beIN BOX OFFICE TURK HD
+http://stariptv.org:8080/hamza2022/123456/93327
+#EXTINF:-1,TR: beIN Box Office 20
+http://stariptv.org:8080/hamza2022/123456/93257
+#EXTINF:-1,TR: beIN Box Office 19
+http://stariptv.org:8080/hamza2022/123456/93256
+#EXTINF:-1,TR: beIN Box Office 18
+http://stariptv.org:8080/hamza2022/123456/93255
+#EXTINF:-1,TR: beIN Box Office 17
+http://stariptv.org:8080/hamza2022/123456/93254
+#EXTINF:-1,TR: beIN Box Office 16
+http://stariptv.org:8080/hamza2022/123456/93253
+#EXTINF:-1,TR: beIN Box Office 15
+http://stariptv.org:8080/hamza2022/123456/93252
+#EXTINF:-1,TR: beIN Box Office 14
+http://stariptv.org:8080/hamza2022/123456/93251
+#EXTINF:-1,TR: beIN Box Office 13
+http://stariptv.org:8080/hamza2022/123456/93250
+#EXTINF:-1,TR: beIN Box Office 12
+http://stariptv.org:8080/hamza2022/123456/93249
+#EXTINF:-1,TR: beIN Box Office 11
+http://stariptv.org:8080/hamza2022/123456/93248
+#EXTINF:-1,TR: beIN Box Office 10
+http://stariptv.org:8080/hamza2022/123456/93247
+#EXTINF:-1,TR: beIN Box Office 9
+http://stariptv.org:8080/hamza2022/123456/93246
+#EXTINF:-1,TR: beIN Box Office 8
+http://stariptv.org:8080/hamza2022/123456/93245
+#EXTINF:-1,TR: beIN Box Office 7
+http://stariptv.org:8080/hamza2022/123456/93244
+#EXTINF:-1,TR: beIN Box Office 6
+http://stariptv.org:8080/hamza2022/123456/93243
+#EXTINF:-1,TR: beIN Box Office 5
+http://stariptv.org:8080/hamza2022/123456/93242
+#EXTINF:-1,TR: beIN Box Office 4
+http://stariptv.org:8080/hamza2022/123456/93241
+#EXTINF:-1,TR: beIN Box Office 3
+http://stariptv.org:8080/hamza2022/123456/93240
+#EXTINF:-1,TR: beIN Box Office 2
+http://stariptv.org:8080/hamza2022/123456/93239
+#EXTINF:-1,TR: beIN Box Office 1
+http://stariptv.org:8080/hamza2022/123456/93238
+#EXTINF:-1,TR: TURKAsat TURK 1 HD
+http://stariptv.org:8080/hamza2022/123456/93505
+#EXTINF:-1,TR: TURKAsat TURK 2 HD
+http://stariptv.org:8080/hamza2022/123456/93506
+#EXTINF:-1,TR: MAX AKSIYON HD
+http://stariptv.org:8080/hamza2022/123456/93494
+#EXTINF:-1,TR: BOSS MOVIES 1
+http://stariptv.org:8080/hamza2022/123456/93489
+#EXTINF:-1,TR: BOSS MOVIES 2
+http://stariptv.org:8080/hamza2022/123456/93490
+#EXTINF:-1,TR: BOSS MOVIES 3
+http://stariptv.org:8080/hamza2022/123456/93491
+#EXTINF:-1,TR: BOSS MOVIES 4
+http://stariptv.org:8080/hamza2022/123456/93492
+#EXTINF:-1,TR: BOSS MOVIES 5
+http://stariptv.org:8080/hamza2022/123456/93493
+#EXTINF:-1,TR: FilmBox Yesilcam TV
+http://stariptv.org:8080/hamza2022/123456/93542
+#EXTINF:-1,TR: Cine + HD Turk 1
+http://stariptv.org:8080/hamza2022/123456/93479
+#EXTINF:-1,TR: Cine + HD Turk 2
+http://stariptv.org:8080/hamza2022/123456/93475
+#EXTINF:-1,TR: Cine + HD Turk 3
+http://stariptv.org:8080/hamza2022/123456/93485
+#EXTINF:-1,TR: Cine + HD 1
+http://stariptv.org:8080/hamza2022/123456/93495
+#EXTINF:-1,TR: Cine + HD 2
+http://stariptv.org:8080/hamza2022/123456/93488
+#EXTINF:-1,TR: Cine + HD 3
+http://stariptv.org:8080/hamza2022/123456/93487
+#EXTINF:-1,TR: Cine + HD 4
+http://stariptv.org:8080/hamza2022/123456/93483
+#EXTINF:-1,TR: Cine + HD 5
+http://stariptv.org:8080/hamza2022/123456/93486
+#EXTINF:-1,TR: Cine + HD 7
+http://stariptv.org:8080/hamza2022/123456/93484
+#EXTINF:-1,TR: EURO LOCA
+http://stariptv.org:8080/hamza2022/123456/93481
+#EXTINF:-1,TR: FiberBox TURK
+http://stariptv.org:8080/hamza2022/123456/93480
+#EXTINF:-1,TR: ENO TURK 1
+http://stariptv.org:8080/hamza2022/123456/93469
+#EXTINF:-1,TR: ENO TURK 2
+http://stariptv.org:8080/hamza2022/123456/93470
+#EXTINF:-1,TR: ENO TURK 3
+http://stariptv.org:8080/hamza2022/123456/93471
+#EXTINF:-1,TR: ENO TURK 4
+http://stariptv.org:8080/hamza2022/123456/93472
+#EXTINF:-1,TR: FILMBOX HD
+http://stariptv.org:8080/hamza2022/123456/93467
+#EXTINF:-1,TR: BLUTV AKSIYON
+http://stariptv.org:8080/hamza2022/123456/93463
+#EXTINF:-1,TR: TURKASAT TURK
+http://stariptv.org:8080/hamza2022/123456/93459
+#EXTINF:-1,TR: Salon 3
+http://stariptv.org:8080/hamza2022/123456/93458
+#EXTINF:-1,TR: TVR SINEMA TV 6
+http://stariptv.org:8080/hamza2022/123456/93457
+#EXTINF:-1,TR: TVR SINEMA TV 5
+http://stariptv.org:8080/hamza2022/123456/93456
+#EXTINF:-1,TR: TVR SINEMA TV 4
+http://stariptv.org:8080/hamza2022/123456/93455
+#EXTINF:-1,TR: TVR SINEMA TV 3
+http://stariptv.org:8080/hamza2022/123456/93454
+#EXTINF:-1,TR: TVR SINEMA TV 2
+http://stariptv.org:8080/hamza2022/123456/93453
+#EXTINF:-1,TR: TVR SINEMA TV 1
+http://stariptv.org:8080/hamza2022/123456/93452
+#EXTINF:-1,TR: TVR VIZYON 5
+http://stariptv.org:8080/hamza2022/123456/93451
+#EXTINF:-1,TR: TVR VIZYON 4
+http://stariptv.org:8080/hamza2022/123456/93450
+#EXTINF:-1,TR: TVR VIZYON 3
+http://stariptv.org:8080/hamza2022/123456/93449
+#EXTINF:-1,TR: TVR VIZYON 2
+http://stariptv.org:8080/hamza2022/123456/93448
+#EXTINF:-1,TR: TVR VIZYON 1
+http://stariptv.org:8080/hamza2022/123456/93447
+#EXTINF:-1,TR: beIN MOVIES TURK
+http://stariptv.org:8080/hamza2022/123456/93323
+#EXTINF:-1,TR: beIN SERIES SCI-FI 1
+http://stariptv.org:8080/hamza2022/123456/93320
+#EXTINF:-1,TR: beIN SERIES VICE
+http://stariptv.org:8080/hamza2022/123456/93319
+#EXTINF:-1,TR: TURKAmax SALON 1 HD
+http://stariptv.org:8080/hamza2022/123456/93528
+#EXTINF:-1,TR: TURKAmax SALON 2 HD
+http://stariptv.org:8080/hamza2022/123456/93529
+#EXTINF:-1,TR: TURKAmax SALON 3 HD
+http://stariptv.org:8080/hamza2022/123456/93530
+#EXTINF:-1,TR: TURKAmax SALON 4 HD
+http://stariptv.org:8080/hamza2022/123456/93531
+#EXTINF:-1,TR: TURKAmax SALON 5 HD
+http://stariptv.org:8080/hamza2022/123456/93532
+#EXTINF:-1,TR: TURKAmax SALON 6 HD
+http://stariptv.org:8080/hamza2022/123456/93533
+#EXTINF:-1,TR: TURKAmax SALON 7 HD
+http://stariptv.org:8080/hamza2022/123456/93534
+#EXTINF:-1,TR: TURKAsat ANIMASYON 1 HD
+http://stariptv.org:8080/hamza2022/123456/93526
+#EXTINF:-1,TR: TURKAsat ANIMASYON 2 HD
+http://stariptv.org:8080/hamza2022/123456/93527
+#EXTINF:-1,TR: LUXTV COCUK 2 HD
+http://stariptv.org:8080/hamza2022/123456/93521
+#EXTINF:-1,TR: LUXTV COCUK 1 HD
+http://stariptv.org:8080/hamza2022/123456/93520
+#EXTINF:-1,TR: LUXTV KEMALSUNAL HD
+http://stariptv.org:8080/hamza2022/123456/93519
+#EXTINF:-1,TR: LUXTV YESILCAM 1 HD
+http://stariptv.org:8080/hamza2022/123456/93518
+#EXTINF:-1,TR: LUXTV AKSIYON 1
+http://stariptv.org:8080/hamza2022/123456/93517
+#EXTINF:-1,TR: LUXTV TURK HD
+http://stariptv.org:8080/hamza2022/123456/93516
+#EXTINF:-1,TR: TURKAsat YESILCAM HD 1080
+http://stariptv.org:8080/hamza2022/123456/93515
+#EXTINF:-1,TR: TURKAsat KORKU 1 HD
+http://stariptv.org:8080/hamza2022/123456/93513
+#EXTINF:-1,TR: TURKAsat KORKU 2 HD
+http://stariptv.org:8080/hamza2022/123456/93514
+#EXTINF:-1,TR: TURKAsat BILIM KURGU 2 HD
+http://stariptv.org:8080/hamza2022/123456/93512
+#EXTINF:-1,TR: TURKAsat BILIM KURGU HD
+http://stariptv.org:8080/hamza2022/123456/93511
+#EXTINF:-1,TR: TURKAsat AKSIYON 1 HD
+http://stariptv.org:8080/hamza2022/123456/93509
+#EXTINF:-1,TR: TURKAsat AKSIYON 2 HD
+http://stariptv.org:8080/hamza2022/123456/93510
+#EXTINF:-1,TR: TURKAsat KOMEDI 2 HD
+http://stariptv.org:8080/hamza2022/123456/93508
+#EXTINF:-1,TR: TURKAsat KOMEDI HD
+http://stariptv.org:8080/hamza2022/123456/93507
