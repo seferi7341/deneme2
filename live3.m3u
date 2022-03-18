@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1,TR: beIN Sports 1 HD
 http://stariptv.org:8080/hamza2022/123456/93433
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 8" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 8
+http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/47360
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 9" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 9
+http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/47361
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 10" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 10
+http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/47362
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 11" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 11
+http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34974
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 12" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 12
+http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34973
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 13" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 13
+http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34972
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 14" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 14
+http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34971
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 15" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 15
+http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34970.ts
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LionBox Yerli Sinema 16" tvg-logo="http://5.9.108.141:89/lionbox.png" group-title="TR : Türk Sinema",|TR| LionBox Yerli Sinema 16
+http://in.lionboxiptv.nl:80/OW4SuBsoAp/0cQqMrG7Dr/34969.m3u8
