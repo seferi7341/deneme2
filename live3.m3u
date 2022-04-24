@@ -1,221 +1,141 @@
 #EXTM3U
 #EXTINF:-1,TR:  SUPER TURK HD
 http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
-#EXTINF:-1,TR:  SUPER TURK yedek
-http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/chunklist_w411684137_b1694720.m3u8
-#EXTINF:-1,TR:  VİZYON TURK
-http://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w315505879.m3u8
-#EXTINF:-1,TR:  VİZYON TURK KOMEDİ
-http://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/chunklist_w1541287259.m3u8
-#EXTINF:-1,TR:  VİZYON  NOSTALJİ
-http://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w993048745.m3u8
-#EXTINF:-1,TR:  VİZYON  KEMAL SUNAL
-http://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist_w1091739803.m3u8
-#EXTINF:-1,TR:  SENER ŞEN TV
-http://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/chunklist_w1524488266.m3u8
-Vizyon AVRUPA YAKASI
-http://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/chunklist_w647114382.m3u8
-Vizyon BIZIMKILER TV
-http://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/chunklist_w1856567925.m3u8
-Vizyon RECEP IVEDIK TV
-http://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/chunklist_w793354047.m3u8
-AFYON TURK HD
-https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-AKTiF TV HD
-http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
-ADANA MOViE TV
-http://adana01.ozelip.com:26258/adana/adana/playlist.m3u8
-BASKAN TV
-http://145.239.37.125:20458/baskantv/baskantv/chunklist.m3u8
-DURAK TV
-http://145.239.37.125:20458/duraktv/duraktv/playlist.m3u8
-DiZi TV TDC HD
-http://93.157.62.180/TDC/index.m3u8
-D DRAMA HD
-http://93.157.62.180/KanalDDrama/playlist.m3u8
-GOPSEN TV
-http://145.239.37.125:20458/gopsentv/gopsentv/chunklist.m3u8
-iSViCRE TV HD
-http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
-iSTANBUL TV HD
-http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
-KANAL iSTANBUL HD
-http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/chunklist_w1612362189_b1596000.m3u8
-KANAL 19
-http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
-LiFE TV HD TR
-http://yerelmedya.tv:1935/lifetv/bant1/chunklist.m3u8
-MEDYA 09 TV
-http://cdn10-kanal09tv.yayin.com.tr/kanal09tv/kanal09tv/chunklist_w1246705227.m3u8
-MSCB KANAL 2000 HD
-http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8
-TV EM
-http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-TiVi 6 HD
-https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
-TiVi 01
-http://tivi011920.ozelip.com:28008/tivi01/tivi01/playlist.m3u8
-TURKAY TV
-https://rtmp-eu.loola.tv:8081/hlspush/Z2ct8AH-ZtE5La.m3u8
-TiViTURK HD
-https://stream.tiviturk.de/live/tiviturk.m3u8
-TV AVRUPA
-http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
-ViYANA TV HD
-http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-ZEKi METiN TV
-http://live-server-2.splitstream.io/474f286e-10bb-414c-816b-652239507141/tracks-v1a1/mono.m3u8
-TMB
-http://istanbul.tvizlehd.com/live/tmbtv.m3u8
-ARABESK TV
-https://yayin.santraltr.com/hls/arabeskyeni.m3u8
-ARMA TV
-https://yayin.santraltr.com/hls/arma.m3u8
-AViVA TV
-https://yayin.santraltr.com/hls/vivatv.m3u8
-DOST MUZiK TV
-https://yayin.santraltr.com/hls/dost.m3u8
-EZO TV
-https://yayin.santraltr.com/hls/ezo.m3u8
-GENC SMS TV
-https://yayin.santraltr.com/hls/genctv.m3u8
-DAMAR TV
-http://51.255.7.18:8080/hls/damar.m3u8
-SILA TV
-https://yayin.santraltr.com/hls/silatv.m3u8
-TV SMS CLUB
-https://yayin.santraltr.com/hls/tvsms.m3u8
-TOP POP TV
-https://yayin.santraltr.com/hls/toppop.m3u8
-ZEYNO TV
-https://yayin.santraltr.com/hls/zeynotv.m3u8
-ALMANYA TV
-http://fidece38941.ozelip.com:2052/almanyatv/almanyatv/playlist.m3u8
-AKKON TV
-http://145.239.37.125:20458/akkontv/akkontv/playlist.m3u8
-ARTVUZ TV
-https://5be5d840359c6.streamlock.net/arttvuz/arttvuz/chunklist_w372254504.m3u8
-AKTUEL MUZIK TV
-http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
-ANADOLU AJANS
-http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
-ALBAYRAK AJANS
-https://cdn10-albayrakajans.yayin.com.tr/albayrakajans/albayrakajans/playlist.m3u8
-A52 TV
-http://fidece38941.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
-BiLSEM TV
-http://51.254.48.123:2052/bilsem/bilsem/chunklist.m3u8
-BRiC-SATRANC TV
-http://139.162.182.79/live/test/index.m3u8
-CRI TURK DiZi HD
-https://www.guventechnology.com:19360/CriturkTVDizi/CriturkTVDizi.m3u8
-CRI TURK BELGESEL HD
-https://www.guventechnology.com:19360/CriturkTVBelgesel/CriturkTVBelgesel.m3u8
-DEMO TV HD
-http://fidece38941.ozelip.com:2052/demotv/demotv/playlist.m3u8
-DERiNCEM TV
-http://tv86905.radyotelekomtv.com:22808/derincemtv/derincemtv/playlist.m3u8
-EGE LiVE TV
-https://59cba4d34b678.streamlock.net/canlitv/egelivetv/chunklist_w792055843.m3u8
-FINDIK TV
-https://tv170.ozelip.com:1936/findiktv/findiktv/playlist.m3u8
-KANAL 6 TV TEST
-https://5be5d840359c6.streamlock.net/kanal6tv/kanal6tv/chunklist_w1008535168.m3u8
-GUNAYDIN TV
-https://5be5d840359c6.streamlock.net/gunaydintv/gunaydintv/chunklist.m3u8
-GENC KRAL TV HD
-http://fidece38941.ozelip.com:2052/genckraltv/genckraltv/chunklist.m3u8
-HAYRAN TV HD
-http://cdn1-hayrantv.yayin.com.tr/hayrantv/hayrantv_1080p/playlist.m3u8
-HiLAFET TV
-http://tv86905.radyotelekomtv.com:22808/hilafettv/hilafettv/playlist.m3u8
-HUR TV
-https://5be5d840359c6.streamlock.net/hurtv/hurtv/chunklist.m3u8
-FARK TURK TV
-http://145.239.37.125:20458/farkturktv/farkturktv/playlist.m3u8
-FiNEST TV
-http://media.finest.tv/hls/live.m3u8
-FORTUNA TV
-https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-FORA MUZiK TV
-http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8
-KMD TV
-http://145.239.37.125:20458/kmdtv/kmdtv/chunklist.m3u8
-KARDES TV
-http://yayin25.canliyayin.org:1935/live/kardestv/chunklist_w377070491.m3u8
-KANAL 67 TV
-https://tv170.ozelip.com:1936/black/black/playlist.m3u8
-KESTEL TV
-http://fidece38941.ozelip.com:2052/kesteltv/kesteltv/playlist.m3u8
-LUGAT TV
-http://145.239.37.125:20458/lugat/lugat/playlist.m3u8
-MAXIMUM TV HD
-http://hd9994.4kradyotv.com:26606/smh61/smh61/playlist.m3u8
-MARMARA TV
-https://yayin2.marmaratv.com.tr/live/marmaratv/chunklist.m3u8
-MEGA TV MUZiK
-http://145.239.37.125:20458/megatv/megatv/playlist.m3u8
-MODA TV FM
-http://modafm52300.ozelip.com:28008/modafm/modafm/chunklist.m3u8
-MEDYA 24
-https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8
-MUZiK HABERCiSi TV
-https://tv170.ozelip.com:1936/muzik/muzik/playlist.m3u8
-OTAG TV
-https://59cba4d34b678.streamlock.net/canlitv/otagtv/chunklist_w1843270513.m3u8
-ON MEDYA TV
-http://live.arkumedia.com:1935/marmaratv/marmaratv/chunklist.m3u8
-PETRA TV HD
-http://tt61.mine.nu/live/PetraTV/Fw99Gpq7Gq/6478.m3u8
-PALA TV
-http://fidece38941.ozelip.com:2052/palatv/palatv/chunklist.m3u8
-RTV 66 TV
-https://59cba4d34b678.streamlock.net/canlitv/rtv66/chunklist_w899917671.m3u8
-SUPER 7 TV
-http://145.239.37.125:20458/super/super/playlist.m3u8
-SEMS TV
-https://59cba4d34b678.streamlock.net/canlitv/semstv/chunklist_w1730584572.m3u8
-TV ADiGE
-http://145.239.37.125:20458/tvadige/tvadige/playlist.m3u8
-TV ONCU
-http://tv56245.ozelip.com:2052/tvoncu/tvoncu/playlist.m3u8
-TV GiDON
-http://fidece38941.ozelip.com:2052/tvgidon/tvgidon/chunklist.m3u8
-TC TV
-http://51.254.48.123:2052/tctv/tctv/chunklist.m3u8
-ULUSLAR TV
-http://145.239.37.125:20458/uluslar/uluslar/playlist.m3u8
-YAREN TV
-https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
-YARIMADA TV
-http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/playlist.m3u8
-YESiLYURT TV
-http://livesx.canlitv.center/yesilyurt.m3u8
-ANKA TV
-http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
-MiSKET TV HD
-http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
-TURKUVAZ TV WESTERN
-http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5243.m3u8
-AKILLI TV
-http://fidece38941.ozelip.com:2052/akillitv/akillitv/chunklist.m3u8
-BiZiM EV TV
-https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
-CEM TV
-http://istanbul.tvizlehd.com/live/cemtv.m3u8
-KANAL B
-https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
-KANAL AVRUPA HD
-http://51.15.2.151/hls/kanalavrupa.m3u8
-MAVi KARADENiZ TV
-https://waw1.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8
-TVO HD TR
-http://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
-TEK RUMELi TV
-https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
-TEMPO TV
-http://yerelmedya.tv:1935/tempotv/bant1/playlist.m3u8
-UCAN KUS TV YEDEK
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-365 TV TR
-https://cdn10-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/495b8640-c324-11ec-af54-03b9c56e7111/3152056/551470314.png" group-title="Turkey", 1SPOR HD 1
+http://37.221.121.166:8181/telespor.ts
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/495b8640-c324-11ec-af54-03b9c56e7111/3152056/551470315.png" group-title="Turkey", 2SPOR HD 2
+http://37.221.121.166:8181/telespor.ts
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/495b8640-c324-11ec-af54-03b9c56e7111/3152056/551470316.png" group-title="Turkey", 3SPOR HD 3
+http://37.221.121.166:8181/telespor.ts
+#EXTINF: -1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/TRT1.tr.png" group-title="Turkey", TR: TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF: -1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="http://worldiptv.xyz/chlogos/atv.tr.png" group-title="Turkey", TR: ATV HD
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF: -1 tvg-id="showtv.tr" tvg-name="TR: SHOW HD" tvg-logo="http://worldiptv.xyz/chlogos/ShowTV.tr.png" group-title="Turkey", TR: SHOW HD
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF: -1 tvg-id="showtv.tr" tvg-name="TR: SHOW HD" tvg-logo="http://worldiptv.xyz/chlogos/ShowTV.tr.png" group-title="Turkey", TR: SHOW HD
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF: -1 tvg-id="kanald.tr" tvg-name="TR: Kanal D HD" tvg-logo="http://worldiptv.xyz/chlogos/KanalD.tr.png" group-title="Turkey", TR: Kanal D HD
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF: -1 tvg-id="startv.tr" tvg-name="TR: STAR HD" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="Turkey", TR: STAR HD
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF: -1 tvg-id="startv.tr" tvg-name="TR: STAR HD" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="Turkey", TR: STAR HD
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF: -1 tvg-id="startv.tr" tvg-name="TR: STAR HD" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="Turkey", TR: STAR HD
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF: -1 tvg-id="fox.tr" tvg-name="TR: FOX HD" tvg-logo="http://worldiptv.xyz/chlogos/Fox.tr.png" group-title="Turkey", TR: FOX HD
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF: -1 tvg-id="TV85.tr" tvg-name="TR: TV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Turkey", TR: TV8 HD
+http://190.2.148.141:80/bar1118/index.m3u8
+#EXTINF: -1 tvg-id="TV85.tr" tvg-name="TR: TV8.5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1f/TV8.5_Logosu.png" group-title="Turkey", TR: TV8.5 HD
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF: -1 tvg-id="teve2.tr" tvg-name="TR: Teve 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/TV2.tr.png" group-title="Turkey", TR: Teve 2 HD
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+#EXTINF: -1 tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="http://worldiptv.xyz/chlogos//SkyTurk360.tr.png" group-title="Turkey", TR: 360 HD
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF: -1 tvg-id="24.tr" tvg-name="TR: TV 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/TV4.tr.png" group-title="Turkey", TR: TV 4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF: -1 tvg-id="beyaztv.tr" tvg-name="TR: Beyaz TV HD" tvg-logo="http://worldiptv.xyz/chlogos/Beyaz.tr.png" group-title="Turkey", TR: Beyaz TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
+#EXTINF: -1 tvg-id="beyaztv.tr" tvg-name="TR: Beyaz TV HD" tvg-logo="http://worldiptv.xyz/chlogos/Beyaz.tr.png" group-title="Turkey", TR: Beyaz TV HD
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF: -1 tvg-id="tlctv.tr" tvg-name="TR: TLC TV HD" tvg-logo="https://icdn.ensonhaber.com/cdn/mobil/assets/img/sample/tlc.png" group-title="Turkey", TR: TLC TV HD
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF: -1 tvg-id="tlctv.tr" tvg-name="TR: TLC TV HD" tvg-logo="https://icdn.ensonhaber.com/cdn/mobil/assets/img/sample/tlc.png" group-title="Turkey", TR: TLC TV HD
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF: -1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="http://worldiptv.xyz/chlogos/Dmax.tr.png" group-title="Turkey", TR: DMAX HD
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF: -1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="http://worldiptv.xyz/chlogos/Dmax.tr.png" group-title="Turkey", TR: DMAX HD
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF: -1 tvg-id="Yaban.tr" tvg-name="TR: Yaban Tv" tvg-logo="http://worldiptv.xyz/chlogos/Yaban.tr.png" group-title="Turkey", TR: Yaban Tv
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w1031340952.m3u8
+#EXTINF: -1 tvg-id="TRTBlgsl.tr" tvg-name="TR: TRT Belgesel" tvg-logo="https://tinyurl.com/TRTBLGSL" group-title="Turkey", TR: TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF: -1 tvg-id="360 hd" tvg-name="TR: Halk Tv" tvg-logo="http://worldiptv.xyz/chlogos/halk.tr.png" group-title="Turkey", TR: Halk Tv
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF: -1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="http://worldiptv.xyz/chlogos/trtHaber.tr.png" group-title="Turkey", TR: TRT HABER HD
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF: -1 tvg-id="haberturk.tr" tvg-name="TR: Habertürk HD" tvg-logo="http://worldiptv.xyz/chlogos/Haberturk.tr.png" group-title="Turkey", TR: Habertürk HD
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF: -1 tvg-id="cnnturk.tr" tvg-name="TR: CNN Türk HD" tvg-logo="http://worldiptv.xyz/chlogos/CNNTurk.tr.png" group-title="Turkey", TR: CNN Türk HD
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
+#EXTINF: -1 tvg-id="ntv.tr" tvg-name="TR: NTV HD" tvg-logo="http://worldiptv.xyz/chlogos/NTV.tr.png" group-title="Turkey", TR: NTV HD
+https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
+#EXTINF: -1 tvg-id="24.tr" tvg-name="TR: 24 HD" tvg-logo="http://worldiptv.xyz/chlogos/24.tr.png" group-title="Turkey", TR: 24 HD
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF: -1 tvg-id="tvnet.tr" tvg-name="TR: Tvnet HD" tvg-logo="http://worldiptv.xyz/chlogos/TVNet.tr.png" group-title="Turkey", TR: Tvnet HD
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF: -1 tvg-id="haberglobal.tr" tvg-name="TR: Haber Global HD" tvg-logo="http://worldiptv.xyz/chlogos/HaberGlobal.tr.png" group-title="Turkey", TR: Haber Global HD
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF: -1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT Haber" tvg-logo="http://worldiptv.xyz/chlogos/TGRTHaber.tr.png" group-title="Turkey", TR: TGRT Haber
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF: -1 tvg-id="tgtblgsl.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://bit.do/fTc6L" group-title="Turkey", TR: TRT BELGESEL HD
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF: -1 tvg-id="SPYDK.tr" tvg-name="TR: TRT SPOR 1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtspor_hd_250x150.png" group-title="Turkey", TRT SPOR 1 HD
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF: -1 tvg-id="SPYDK.tr" tvg-name="TR: TRT SPOR 2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtspor2_250x150.png" group-title="Turkey", TRT SPOR 2 HD
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+#EXTINF: -1 tvg-id="SPYDK.tr" tvg-name="TR: A Spor HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/A_Spor_Hd.png" group-title="Turkey", A SPOR HD
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF: -1 tvg-id="Sinema Tv Komedi" tvg-name="TR: SINEMA TV KOMEDI" tvg-logo="http://logo.vizontele.eu/logoslar/SINEMATV.png" group-title="Turkey", TR: SINEMA TV KOMEDI
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47584
+#EXTINF: -1 tvg-id="Sinema Tv Aile" tvg-name="TR: SINEMA TV AILE" tvg-logo="http://logo.vizontele.eu/logoslar/SINEMATV.png" group-title="Turkey", TR: SINEMA TV AILE
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47582
+#EXTINF: -1 tvg-id="Sinema Tv Aksiyon" tvg-name="TR: SINEMA TV AKSIYON" tvg-logo="http://logo.vizontele.eu/logoslar/SINEMATV.png" group-title="Turkey", TR: SINEMA TV AKSIYON
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47580
+#EXTINF: -1 tvg-name="TR: MOVIE SMART CLASSIC HD" group-title="Turkey", TR: MOVIE SMART CLASSIC HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47602
+#EXTINF: -1 tvg-name="TR: MOVIE SMART FAMILY HD" group-title="Turkey", TR: MOVIE SMART FAMILY HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47613
+#EXTINF: -1 tvg-name="TR: MOVIE SMART PLATIN 2 HD" group-title="Turkey", TR: MOVIE SMART PLATIN 2 HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47615
+#EXTINF: -1 tvg-name="TR: MOVIE SMART PLATIN HD" group-title="Turkey", TR: MOVIE SMART PLATIN HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47614
+#EXTINF: -1 tvg-name="TR: MOVIE SMART PREMIUM HD" group-title="Turkey", TR: MOVIE SMART PREMIUM HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47616
+#EXTINF: -1 tvg-name="TR: MOVIE SMART TURK HD" group-title="Turkey", TR: MOVIE SMART TURK HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47605
+#EXTINF: -1 tvg-name="TR: SiNEMA TV AKSiYON HD" group-title="Turkey", TR: SiNEMA TV AKSiYON HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47580
+#EXTINF: -1 tvg-name="TR: SiNEMA TV YERLi HD" group-title="Turkey", TR: SiNEMA TV YERLi HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47588
+#EXTINF: -1 tvg-name="TR: DMAX HD [4K Transcoded]" group-title="Turkey", TR: DMAX HD [4K Transcoded]
+http://blackiptv.nl:8000/live/buyasaponline/oLvwbZjOqC/10646.ts
+#EXTINF: -1 tvg-name="TR: Cine Kemal Sunal 1 HD" group-title="Turkey", TR: Cine Kemal Sunal 1 HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47560
+#EXTINF: -1 tvg-name="TR: Cine Kemal Sunal 2 HD" group-title="Turkey", TR: Cine Kemal Sunal 2 HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47378
+#EXTINF: -1 tvg-name="TR: YESiLCAM TV MEDOTV HD" group-title="Turkey", TR: YESiLCAM TV MEDOTV HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47454
+#EXTINF: -1 tvg-name="TR: KEMAL SUNAL MEDOTV HD" group-title="Turkey", TR: KEMAL SUNAL MEDOTV HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47455
+#EXTINF: -1 tvg-name="TR: MEDOTV VIZYON 1" group-title="Turkey", TR: MEDOTV VIZYON 1
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47651
+#EXTINF: -1 tvg-name="TR: MEDOTV TURK SINEMA 1" group-title="Turkey", TR: MEDOTV TURK SINEMA 1
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47648
+#EXTINF: -1 tvg-name="TR: MEDOTV TURK SINEMA 2" group-title="Turkey", TR: MEDOTV TURK SINEMA 2
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47643
+#EXTINF: -1 tvg-name="TR: MEDOTV TURK SINEMA 3" group-title="Turkey", TR: MEDOTV TURK SINEMA 3
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47628
+#EXTINF: -1 tvg-name="TR: MEDOTV AKSIYON 1" group-title="Turkey", TR: MEDOTV AKSIYON 1
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47631
+#EXTINF: -1 tvg-name="TR: MEDOTV AKSIYON 2" group-title="Turkey", TR: MEDOTV AKSIYON 2
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47632
+#EXTINF: -1 tvg-name="TR: MEDOTV AKSIYON 3" group-title="Turkey", TR: MEDOTV AKSIYON 3
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47633
+#EXTINF: -1 tvg-name="TR: TIVIBU SPOR 2 HD" group-title="Turkey", TR: TIVIBU SPOR 2 HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/205
+#EXTINF: -1 tvg-name="TR: TIVIBU SPOR 3 HD" group-title="Turkey", TR: TIVIBU SPOR 3 HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/206
+#EXTINF: -1 tvg-name="TR: SMARTSPOR 1 HD" group-title="Turkey", TR: SMARTSPOR 1 HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/201
+#EXTINF: -1 tvg-id="tr.SPORTS TV" tvg-name="TR: S SPORT HD" group-title="Turkey", TR: S SPORT HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/200
+#EXTINF: -1 tvg-id="Sky Sports Main Event HD" tvg-name="TR: TRT SPOR HD" group-title="Turkey", TR: TRT SPOR HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/199
+#EXTINF: -1 tvg-id="Sky Sports Main Event HD" tvg-name="TR: SPORTS TV HD" group-title="Turkey", TR: SPORTS TV HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/202
+#EXTINF: -1 tvg-id="tr.A SPOR HD" tvg-name="TR: A SPOR HD" group-title="Turkey", TR: A SPOR HD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/16802
+#EXTINF: -1 tvg-id="Sky Sports Main Event HD" tvg-name="TR: A SPOR SD" group-title="Turkey", TR: A SPOR SD
+http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/195
