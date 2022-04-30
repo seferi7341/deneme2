@@ -1,41 +1,27 @@
 #EXTM3U
-#EXTINF:-1,[TR]BEIN SPORTS 1 FHD
-http://744707357617257632.nicejan.xyz:80/vi03084/4986534/257632
-#EXTINF:-1,[TR]BEIN SPORTS 1 HD
-http://744707357617257633.nicejan.xyz:80/vi03084/4986534/257633
-#EXTINF:-1,[TR]BEIN SPORTS 3 FHD
-http://744707357617257636.nicejan.xyz:80/vi03084/4986534/257636
-#EXTINF:-1,[TR]BEIN SPORTS 3 HD
-http://744707357617257637.nicejan.xyz:80/vi03084/4986534/257637
-#EXTINF:-1,[TR]BEIN SPORTS 4 FHD
-http://744707357617257638.nicejan.xyz:80/vi03084/4986534/257638
-#EXTINF:-1,[TR]BEIN SPORTS 4 HD
-http://744707357617257639.nicejan.xyz:80/vi03084/4986534/257639
-#EXTINF:-1,[TR]BEIN SPORTS MAX 1 FHD
-http://744707357617257640.nicejan.xyz:80/vi03084/4986534/257640
-#EXTINF:-1,[TR]BEIN SPORTS MAX 1 HD
-http://744707357617257641.nicejan.xyz:80/vi03084/4986534/257641
-#EXTINF:-1,[TR]BEIN SPORTS MAX 2 FHD
-http://744707357617257642.nicejan.xyz:80/vi03084/4986534/257642
-#EXTINF:-1,[TR]BEIN SPORT MAX-1 HDI
-http://744707357617257647.nicejan.xyz:80/vi03084/4986534/257647
-#EXTINF:-1,[TR]BEIN SPORT MAX-2 HDI
-http://744707357617257648.nicejan.xyz:80/vi03084/4986534/257648
-#EXTINF:-1,[TR]BEIN SPORT-1 SD
-http://744707357617257649.nicejan.xyz:80/vi03084/4986534/257649
-#EXTINF:-1,[TR]BEIN SPORT-2 HDI
-http://744707357617257650.nicejan.xyz:80/vi03084/4986534/257650
-#EXTINF:-1,[TR]BEIN SPORT-3 HDI
-http://744707357617257651.nicejan.xyz:80/vi03084/4986534/257651
-#EXTINF:-1,[TR]BEIN SPORT-4 HDI
-http://744707357617257652.nicejan.xyz:80/vi03084/4986534/257652
-#EXTINF:-1,[TR]EUROSPORT2 HD
-http://744707357617257703.nicejan.xyz:80/vi03084/4986534/257703
-#EXTINF:-1,[TR]S-SPORT HD
-http://744707357617257806.nicejan.xyz:80/vi03084/4986534/257806
-#EXTINF:-1,[TR]SPORTS TV HD
-http://744707357617257854.nicejan.xyz:80/vi03084/4986534/257854
-#EXTINF:-1,[TR]SPORTSTV HD
-http://744707357617257855.nicejan.xyz:80/vi03084/4986534/257855
-#EXTINF:-1,[TR]BEIN SPORTS 1 HDF
-http://744707357617257944.nicejan.xyz:80/vi03084/4986534/257944
+#EXTINF:-1,AKSiYON HD
+https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
+#EXTINF:-1,BELGESEL HD
+https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
+#EXTINF:-1,OZEL YAPIM HD
+https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
+#EXTINF:-1,NOSTALJi HD
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
+#EXTINF:-1,KiDS TURK HD
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8
+#EXTINF:-1,AFYON TURK HD
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1,AKTiF TV HD
+http://aktif2830.ozelip.com:30124/aktif/aktif/chunklist.m3u8
+#EXTINF:-1,BEYAZ YESiLCAM HD
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+#EXTINF:-1,BEYAZ SiNEMA HD
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:-1,CiNETiVi ADANA
+http://adana01.ozelip.com:26258/adana/adana/playlist.m3u8
+#EXTINF:-1,CiNEMiDi TV HD
+https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
+#EXTINF:-1,CiNE5 TV
+https://host.onlineradyotv.net:8081/cine5/index.m3u8
+#EXTINF:-1,iSViCRE TV HD
+http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
