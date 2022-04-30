@@ -25,3 +25,21 @@ https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
 https://host.onlineradyotv.net:8081/cine5/index.m3u8
 #EXTINF:-1,iSViCRE TV HD
 http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
+#EXTINF:-1,Ölümcül Takip
+https://eu1.vod.rdncdn.com/vod4/Movies/AutoTopMovies/TR/OlumculTakip.mp4/index.m3u8
+#EXTINF:-1,Ölümcül Tuzak
+https://eu2.vod.rdncdn.com/VOD1/Movies/TR/OlumculTuzak.mp4/index.m3u8
+#EXTINF:-1,Ölümle Dans
+https://eu1.vod.rdncdn.com/movies/Olumle-Dans-2007.mp4/index.m3u8
+#EXTINF:-1,Ölümsüz Kılıç
+https://eu1.vod.rdncdn.com/vod4/Movies/TopMovies/Turkce/OlumsuzKilic.mp4/index.m3u8
+#EXTINF:-1,Otoban
+https://eu1.vod.rdncdn.com/vod4/Movies/TopMovies/Turkce/Otoban.mp4/index.m3u8
+#EXTINF:-1,Pablo Escobar\'ı Sevmek
+https://eu1.vod.rdncdn.com/vod4/Movies/AutoTopMovies/TR/PabloEscobariSevmek.mp4/index.m3u8
+#EXTINF:-1,Pamuk Prenses ve Avcı
+https://eu1.vod.rdncdn.com/vod4/Movies/TopMovies/Turkce/PamukPrensesVeAvci.mp4/index.m3u8
+#EXTINF:-1,Uzayda Dehşet
+https://eu1.vod.rdncdn.com/vod4/Movies/Tr/Pandorum.mp4/index.m3u8
+#EXTINF:-1,Para Avcısı
+https://eu1.vod.rdncdn.com/moviesnew/tr/drama/paravcisi.mp4/index.m3u8
