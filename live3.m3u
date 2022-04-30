@@ -1,141 +1,205 @@
 #EXTM3U
-#EXTINF:-1,TR:  SUPER TURK HD
-http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/495b8640-c324-11ec-af54-03b9c56e7111/3152056/551470314.png" group-title="Turkey", 1SPOR HD 1
-http://37.221.121.166:8181/telespor.ts
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/495b8640-c324-11ec-af54-03b9c56e7111/3152056/551470315.png" group-title="Turkey", 2SPOR HD 2
-http://37.221.121.166:8181/telespor.ts
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/495b8640-c324-11ec-af54-03b9c56e7111/3152056/551470316.png" group-title="Turkey", 3SPOR HD 3
-http://37.221.121.166:8181/telespor.ts
-#EXTINF: -1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/TRT1.tr.png" group-title="Turkey", TR: TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="http://worldiptv.xyz/chlogos/atv.tr.png" group-title="Turkey", TR: ATV HD
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF: -1 tvg-id="showtv.tr" tvg-name="TR: SHOW HD" tvg-logo="http://worldiptv.xyz/chlogos/ShowTV.tr.png" group-title="Turkey", TR: SHOW HD
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF: -1 tvg-id="showtv.tr" tvg-name="TR: SHOW HD" tvg-logo="http://worldiptv.xyz/chlogos/ShowTV.tr.png" group-title="Turkey", TR: SHOW HD
-https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
-#EXTINF: -1 tvg-id="kanald.tr" tvg-name="TR: Kanal D HD" tvg-logo="http://worldiptv.xyz/chlogos/KanalD.tr.png" group-title="Turkey", TR: Kanal D HD
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
-#EXTINF: -1 tvg-id="startv.tr" tvg-name="TR: STAR HD" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="Turkey", TR: STAR HD
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF: -1 tvg-id="startv.tr" tvg-name="TR: STAR HD" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="Turkey", TR: STAR HD
-https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
-#EXTINF: -1 tvg-id="startv.tr" tvg-name="TR: STAR HD" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="Turkey", TR: STAR HD
-https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF: -1 tvg-id="fox.tr" tvg-name="TR: FOX HD" tvg-logo="http://worldiptv.xyz/chlogos/Fox.tr.png" group-title="Turkey", TR: FOX HD
-https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
-#EXTINF: -1 tvg-id="TV85.tr" tvg-name="TR: TV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Turkey", TR: TV8 HD
-http://190.2.148.141:80/bar1118/index.m3u8
-#EXTINF: -1 tvg-id="TV85.tr" tvg-name="TR: TV8.5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/1f/TV8.5_Logosu.png" group-title="Turkey", TR: TV8.5 HD
-https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
-#EXTINF: -1 tvg-id="teve2.tr" tvg-name="TR: Teve 2 HD" tvg-logo="http://worldiptv.xyz/chlogos/TV2.tr.png" group-title="Turkey", TR: Teve 2 HD
-https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
-#EXTINF: -1 tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="http://worldiptv.xyz/chlogos//SkyTurk360.tr.png" group-title="Turkey", TR: 360 HD
-https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
-#EXTINF: -1 tvg-id="24.tr" tvg-name="TR: TV 4 HD" tvg-logo="http://worldiptv.xyz/chlogos/TV4.tr.png" group-title="Turkey", TR: TV 4 HD
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF: -1 tvg-id="beyaztv.tr" tvg-name="TR: Beyaz TV HD" tvg-logo="http://worldiptv.xyz/chlogos/Beyaz.tr.png" group-title="Turkey", TR: Beyaz TV HD
-https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
-#EXTINF: -1 tvg-id="beyaztv.tr" tvg-name="TR: Beyaz TV HD" tvg-logo="http://worldiptv.xyz/chlogos/Beyaz.tr.png" group-title="Turkey", TR: Beyaz TV HD
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF: -1 tvg-id="tlctv.tr" tvg-name="TR: TLC TV HD" tvg-logo="https://icdn.ensonhaber.com/cdn/mobil/assets/img/sample/tlc.png" group-title="Turkey", TR: TLC TV HD
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF: -1 tvg-id="tlctv.tr" tvg-name="TR: TLC TV HD" tvg-logo="https://icdn.ensonhaber.com/cdn/mobil/assets/img/sample/tlc.png" group-title="Turkey", TR: TLC TV HD
-https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
-#EXTINF: -1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="http://worldiptv.xyz/chlogos/Dmax.tr.png" group-title="Turkey", TR: DMAX HD
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF: -1 tvg-id="dmax.tr" tvg-name="TR: DMAX HD" tvg-logo="http://worldiptv.xyz/chlogos/Dmax.tr.png" group-title="Turkey", TR: DMAX HD
-https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
-#EXTINF: -1 tvg-id="Yaban.tr" tvg-name="TR: Yaban Tv" tvg-logo="http://worldiptv.xyz/chlogos/Yaban.tr.png" group-title="Turkey", TR: Yaban Tv
-https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w1031340952.m3u8
-#EXTINF: -1 tvg-id="TRTBlgsl.tr" tvg-name="TR: TRT Belgesel" tvg-logo="https://tinyurl.com/TRTBLGSL" group-title="Turkey", TR: TRT Belgesel
-https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="360 hd" tvg-name="TR: Halk Tv" tvg-logo="http://worldiptv.xyz/chlogos/halk.tr.png" group-title="Turkey", TR: Halk Tv
-https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-#EXTINF: -1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="http://worldiptv.xyz/chlogos/trtHaber.tr.png" group-title="Turkey", TR: TRT HABER HD
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="haberturk.tr" tvg-name="TR: Habertürk HD" tvg-logo="http://worldiptv.xyz/chlogos/Haberturk.tr.png" group-title="Turkey", TR: Habertürk HD
-https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF: -1 tvg-id="cnnturk.tr" tvg-name="TR: CNN Türk HD" tvg-logo="http://worldiptv.xyz/chlogos/CNNTurk.tr.png" group-title="Turkey", TR: CNN Türk HD
-https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
-#EXTINF: -1 tvg-id="ntv.tr" tvg-name="TR: NTV HD" tvg-logo="http://worldiptv.xyz/chlogos/NTV.tr.png" group-title="Turkey", TR: NTV HD
-https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
-#EXTINF: -1 tvg-id="24.tr" tvg-name="TR: 24 HD" tvg-logo="http://worldiptv.xyz/chlogos/24.tr.png" group-title="Turkey", TR: 24 HD
-https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
-#EXTINF: -1 tvg-id="tvnet.tr" tvg-name="TR: Tvnet HD" tvg-logo="http://worldiptv.xyz/chlogos/TVNet.tr.png" group-title="Turkey", TR: Tvnet HD
-https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
-#EXTINF: -1 tvg-id="haberglobal.tr" tvg-name="TR: Haber Global HD" tvg-logo="http://worldiptv.xyz/chlogos/HaberGlobal.tr.png" group-title="Turkey", TR: Haber Global HD
-https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF: -1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT Haber" tvg-logo="http://worldiptv.xyz/chlogos/TGRTHaber.tr.png" group-title="Turkey", TR: TGRT Haber
-https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
-#EXTINF: -1 tvg-id="tgtblgsl.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://bit.do/fTc6L" group-title="Turkey", TR: TRT BELGESEL HD
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF: -1 tvg-id="SPYDK.tr" tvg-name="TR: TRT SPOR 1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtspor_hd_250x150.png" group-title="Turkey", TRT SPOR 1 HD
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="SPYDK.tr" tvg-name="TR: TRT SPOR 2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtspor2_250x150.png" group-title="Turkey", TRT SPOR 2 HD
-https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="SPYDK.tr" tvg-name="TR: A Spor HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/A_Spor_Hd.png" group-title="Turkey", A SPOR HD
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF: -1 tvg-id="Sinema Tv Komedi" tvg-name="TR: SINEMA TV KOMEDI" tvg-logo="http://logo.vizontele.eu/logoslar/SINEMATV.png" group-title="Turkey", TR: SINEMA TV KOMEDI
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47584
-#EXTINF: -1 tvg-id="Sinema Tv Aile" tvg-name="TR: SINEMA TV AILE" tvg-logo="http://logo.vizontele.eu/logoslar/SINEMATV.png" group-title="Turkey", TR: SINEMA TV AILE
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47582
-#EXTINF: -1 tvg-id="Sinema Tv Aksiyon" tvg-name="TR: SINEMA TV AKSIYON" tvg-logo="http://logo.vizontele.eu/logoslar/SINEMATV.png" group-title="Turkey", TR: SINEMA TV AKSIYON
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47580
-#EXTINF: -1 tvg-name="TR: MOVIE SMART CLASSIC HD" group-title="Turkey", TR: MOVIE SMART CLASSIC HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47602
-#EXTINF: -1 tvg-name="TR: MOVIE SMART FAMILY HD" group-title="Turkey", TR: MOVIE SMART FAMILY HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47613
-#EXTINF: -1 tvg-name="TR: MOVIE SMART PLATIN 2 HD" group-title="Turkey", TR: MOVIE SMART PLATIN 2 HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47615
-#EXTINF: -1 tvg-name="TR: MOVIE SMART PLATIN HD" group-title="Turkey", TR: MOVIE SMART PLATIN HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47614
-#EXTINF: -1 tvg-name="TR: MOVIE SMART PREMIUM HD" group-title="Turkey", TR: MOVIE SMART PREMIUM HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47616
-#EXTINF: -1 tvg-name="TR: MOVIE SMART TURK HD" group-title="Turkey", TR: MOVIE SMART TURK HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47605
-#EXTINF: -1 tvg-name="TR: SiNEMA TV AKSiYON HD" group-title="Turkey", TR: SiNEMA TV AKSiYON HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47580
-#EXTINF: -1 tvg-name="TR: SiNEMA TV YERLi HD" group-title="Turkey", TR: SiNEMA TV YERLi HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47588
-#EXTINF: -1 tvg-name="TR: DMAX HD [4K Transcoded]" group-title="Turkey", TR: DMAX HD [4K Transcoded]
-http://blackiptv.nl:8000/live/buyasaponline/oLvwbZjOqC/10646.ts
-#EXTINF: -1 tvg-name="TR: Cine Kemal Sunal 1 HD" group-title="Turkey", TR: Cine Kemal Sunal 1 HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47560
-#EXTINF: -1 tvg-name="TR: Cine Kemal Sunal 2 HD" group-title="Turkey", TR: Cine Kemal Sunal 2 HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47378
-#EXTINF: -1 tvg-name="TR: YESiLCAM TV MEDOTV HD" group-title="Turkey", TR: YESiLCAM TV MEDOTV HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47454
-#EXTINF: -1 tvg-name="TR: KEMAL SUNAL MEDOTV HD" group-title="Turkey", TR: KEMAL SUNAL MEDOTV HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47455
-#EXTINF: -1 tvg-name="TR: MEDOTV VIZYON 1" group-title="Turkey", TR: MEDOTV VIZYON 1
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47651
-#EXTINF: -1 tvg-name="TR: MEDOTV TURK SINEMA 1" group-title="Turkey", TR: MEDOTV TURK SINEMA 1
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47648
-#EXTINF: -1 tvg-name="TR: MEDOTV TURK SINEMA 2" group-title="Turkey", TR: MEDOTV TURK SINEMA 2
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47643
-#EXTINF: -1 tvg-name="TR: MEDOTV TURK SINEMA 3" group-title="Turkey", TR: MEDOTV TURK SINEMA 3
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47628
-#EXTINF: -1 tvg-name="TR: MEDOTV AKSIYON 1" group-title="Turkey", TR: MEDOTV AKSIYON 1
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47631
-#EXTINF: -1 tvg-name="TR: MEDOTV AKSIYON 2" group-title="Turkey", TR: MEDOTV AKSIYON 2
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47632
-#EXTINF: -1 tvg-name="TR: MEDOTV AKSIYON 3" group-title="Turkey", TR: MEDOTV AKSIYON 3
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/47633
-#EXTINF: -1 tvg-name="TR: TIVIBU SPOR 2 HD" group-title="Turkey", TR: TIVIBU SPOR 2 HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/205
-#EXTINF: -1 tvg-name="TR: TIVIBU SPOR 3 HD" group-title="Turkey", TR: TIVIBU SPOR 3 HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/206
-#EXTINF: -1 tvg-name="TR: SMARTSPOR 1 HD" group-title="Turkey", TR: SMARTSPOR 1 HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/201
-#EXTINF: -1 tvg-id="tr.SPORTS TV" tvg-name="TR: S SPORT HD" group-title="Turkey", TR: S SPORT HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/200
-#EXTINF: -1 tvg-id="Sky Sports Main Event HD" tvg-name="TR: TRT SPOR HD" group-title="Turkey", TR: TRT SPOR HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/199
-#EXTINF: -1 tvg-id="Sky Sports Main Event HD" tvg-name="TR: SPORTS TV HD" group-title="Turkey", TR: SPORTS TV HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/202
-#EXTINF: -1 tvg-id="tr.A SPOR HD" tvg-name="TR: A SPOR HD" group-title="Turkey", TR: A SPOR HD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/16802
-#EXTINF: -1 tvg-id="Sky Sports Main Event HD" tvg-name="TR: A SPOR SD" group-title="Turkey", TR: A SPOR SD
-http://tv.evaiptv.stream:25461/MuratSahin/MuratSahin/195
+#EXTINF:-1,TR VIP: Bein movies comedy
+http://bigdog.click:80/cheese1/cheese1/566451
+#EXTINF:-1,TR VIP: beIN MOVIES Fist
+http://bigdog.click:80/cheese1/cheese1/566452
+#EXTINF:-1,TR VIP: beIN MOVIES Platin
+http://bigdog.click:80/cheese1/cheese1/566453
+#EXTINF:-1,TR VIP: beIN MOVIES Platin 2
+http://bigdog.click:80/cheese1/cheese1/566454
+#EXTINF:-1,TR VIP: Bein Movies PREMIERE 3
+http://bigdog.click:80/cheese1/cheese1/566455
+#EXTINF:-1,TR VIP: beIN MOVIES PREMIUM 2 FHD
+http://bigdog.click:80/cheese1/cheese1/566456
+#EXTINF:-1,TR VIP: beIN MOVIES PREMIUM FHD
+http://bigdog.click:80/cheese1/cheese1/566457
+#EXTINF:-1,TR VIP: beIN Series Vice
+http://bigdog.click:80/cheese1/cheese1/566458
+#EXTINF:-1,TR VIP: beIN SMART TURK
+http://bigdog.click:80/cheese1/cheese1/566459
+#EXTINF:-1,TR VIP: BLOOMBERG FHD
+http://bigdog.click:80/cheese1/cheese1/566460
+#EXTINF:-1,TR VIP: BLUMAX Aksiyon
+http://bigdog.click:80/cheese1/cheese1/566461
+#EXTINF:-1,TR VIP: BLUMAX Ankara Havalari 2
+http://bigdog.click:80/cheese1/cheese1/566462
+#EXTINF:-1,TR VIP: BLUMAX Ari Maya
+http://bigdog.click:80/cheese1/cheese1/566463
+#EXTINF:-1,TR VIP: BLUMAX Balon Tv
+http://bigdog.click:80/cheese1/cheese1/566464
+#EXTINF:-1,TR VIP: BLUMAX Cingilikler
+http://bigdog.click:80/cheese1/cheese1/566465
+#EXTINF:-1,TR VIP: BLUMAX Comedy Turk
+http://bigdog.click:80/cheese1/cheese1/566466
+#EXTINF:-1,TR VIP: BLUMAX CUNETY ARKIN
+http://bigdog.click:80/cheese1/cheese1/566467
+#EXTINF:-1,TR VIP: BLUMAX Ezel Tv 2
+http://bigdog.click:80/cheese1/cheese1/566468
+#EXTINF:-1,TR VIP: BLUMAX Hababam TV
+http://bigdog.click:80/cheese1/cheese1/566469
+#EXTINF:-1,TR VIP: BLUMAX Halk Muzigi 1
+http://bigdog.click:80/cheese1/cheese1/566470
+#EXTINF:-1,TR VIP: BLUMAX Halk Muzigi 2
+http://bigdog.click:80/cheese1/cheese1/566471
+#EXTINF:-1,TR VIP: BLUMAX Ibo Show 1
+http://bigdog.click:80/cheese1/cheese1/566472
+#EXTINF:-1,TR VIP: BLUMAX Ibo Show 2
+http://bigdog.click:80/cheese1/cheese1/566473
+#EXTINF:-1,TR VIP: BLUMAX Ibo Show 5
+http://bigdog.click:80/cheese1/cheese1/566474
+#EXTINF:-1,TR VIP: BLUMAX ILYAS SALMAN
+http://bigdog.click:80/cheese1/cheese1/566475
+#EXTINF:-1,TR VIP: BLUMAX KEMAL SUNAL 1
+http://bigdog.click:80/cheese1/cheese1/566476
+#EXTINF:-1,TR VIP: BLUMAX KEMAL SUNAL 2
+http://bigdog.click:80/cheese1/cheese1/566477
+#EXTINF:-1,TR VIP: BLUMAX KEMAL SUNAL 3
+http://bigdog.click:80/cheese1/cheese1/566478
+#EXTINF:-1,TR VIP: BLUMAX KEMAL SUNAL 4
+http://bigdog.click:80/cheese1/cheese1/566479
+#EXTINF:-1,TR VIP: BLUMAX KEMAL SUNAL 5
+http://bigdog.click:80/cheese1/cheese1/566480
+#EXTINF:-1,TR VIP: BLUMAX KEMAL SUNAL 6
+http://bigdog.click:80/cheese1/cheese1/566481
+#EXTINF:-1,TR VIP: BLUMAX Kral Sakir
+http://bigdog.click:80/cheese1/cheese1/566482
+#EXTINF:-1,TR VIP: BLUMAX Kukuli 1
+http://bigdog.click:80/cheese1/cheese1/566483
+#EXTINF:-1,TR VIP: BLUMAX Masallar 1
+http://bigdog.click:80/cheese1/cheese1/566484
+#EXTINF:-1,TR VIP: BLUMAX Masallar 2
+http://bigdog.click:80/cheese1/cheese1/566485
+#EXTINF:-1,TR VIP: BLUMAX YESILCAM 2
+http://bigdog.click:80/cheese1/cheese1/566486
+#EXTINF:-1,TR VIP: BLUMAX YESILCAM 3
+http://bigdog.click:80/cheese1/cheese1/566487
+#EXTINF:-1,TR VIP: BLUMAX YESILCAM 4
+http://bigdog.click:80/cheese1/cheese1/566488
+#EXTINF:-1,TR VIP: BLUMAX YESILCAM 5
+http://bigdog.click:80/cheese1/cheese1/566489
+#EXTINF:-1,TR VIP: BLUMAX YESILCAM 6
+http://bigdog.click:80/cheese1/cheese1/566490
+#EXTINF:-1,TR VIP: BLUMAX YESILCAM 7
+http://bigdog.click:80/cheese1/cheese1/566491
+#EXTINF:-1,TR VIP: BLUMAX YESILCAM 8
+http://bigdog.click:80/cheese1/cheese1/566492
+#EXTINF:-1,TR VIP: BLUMAX Yilmaz Guney
+http://bigdog.click:80/cheese1/cheese1/566493
+#EXTINF:-1,TR VIP: BODRUM FM
+http://bigdog.click:80/cheese1/cheese1/566494
+#EXTINF:-1,TR VIP: Boomerang
+http://bigdog.click:80/cheese1/cheese1/566495
+#EXTINF:-1,TR VIP: BOSS AKUSTIK
+http://bigdog.click:80/cheese1/cheese1/566496
+#EXTINF:-1,TR VIP: BOSS ANiMASYON
+http://bigdog.click:80/cheese1/cheese1/566497
+#EXTINF:-1,TR VIP: BOSS ARABALAR
+http://bigdog.click:80/cheese1/cheese1/566498
+#EXTINF:-1,TR VIP: BOSS ARABESK
+http://bigdog.click:80/cheese1/cheese1/566499
+#EXTINF:-1,TR VIP: BOSS KEMAL SUNAL 2
+http://bigdog.click:80/cheese1/cheese1/566500
+#EXTINF:-1,TR VIP: BOSS KUKULI
+http://bigdog.click:80/cheese1/cheese1/566501
+#EXTINF:-1,TR VIP: BOSS MASHA
+http://bigdog.click:80/cheese1/cheese1/566502
+#EXTINF:-1,TR VIP: BOSS MOVIES 1
+http://bigdog.click:80/cheese1/cheese1/566503
+#EXTINF:-1,TR VIP: BOSS MOVIES 10
+http://bigdog.click:80/cheese1/cheese1/566504
+#EXTINF:-1,TR VIP: Boss Movies 2
+http://bigdog.click:80/cheese1/cheese1/566505
+#EXTINF:-1,TR VIP: Boss Movies 3
+http://bigdog.click:80/cheese1/cheese1/566506
+#EXTINF:-1,TR VIP: Boss Movies 4
+http://bigdog.click:80/cheese1/cheese1/566507
+#EXTINF:-1,TR VIP: BOSS MOVIES 5
+http://bigdog.click:80/cheese1/cheese1/566508
+#EXTINF:-1,TR VIP: BOSS MOVIES 6
+http://bigdog.click:80/cheese1/cheese1/566509
+#EXTINF:-1,TR VIP: BOSS MOVIES 7
+http://bigdog.click:80/cheese1/cheese1/566510
+#EXTINF:-1,TR VIP: BOSS MOVIES 8
+http://bigdog.click:80/cheese1/cheese1/566511
+#EXTINF:-1,TR VIP: Boss Movies 9
+http://bigdog.click:80/cheese1/cheese1/566512
+#EXTINF:-1,TR VIP: BOSS MOVIES KEMAL SUNAL
+http://bigdog.click:80/cheese1/cheese1/566513
+#EXTINF:-1,TR VIP: BOSS MUZIK
+http://bigdog.click:80/cheese1/cheese1/566514
+#EXTINF:-1,TR VIP: BOSS NILOYA
+http://bigdog.click:80/cheese1/cheese1/566515
+#EXTINF:-1,TR VIP: BOSS PEPEE TV
+http://bigdog.click:80/cheese1/cheese1/566516
+#EXTINF:-1,TR VIP: BOSS TAYO
+http://bigdog.click:80/cheese1/cheese1/566517
+#EXTINF:-1,TR VIP: BOSS TiYATRO
+http://bigdog.click:80/cheese1/cheese1/566518
+#EXTINF:-1,TR VIP: BOSS TURK SANAT
+http://bigdog.click:80/cheese1/cheese1/566519
+#EXTINF:-1,TR VIP: BOSS YESILCAM
+http://bigdog.click:80/cheese1/cheese1/566520
+#EXTINF:-1,TR VIP: BRT 3
+http://bigdog.click:80/cheese1/cheese1/566521
+#EXTINF:-1,TR VIP: CAILLOU TV
+http://bigdog.click:80/cheese1/cheese1/566522
+#EXTINF:-1,TR VIP: CBEEBiES
+http://bigdog.click:80/cheese1/cheese1/566523
+#EXTINF:-1,TR VIP: Cine Kemal Sunal 3
+http://bigdog.click:80/cheese1/cheese1/566524
+#EXTINF:-1,TR VIP: Cocuk 1
+http://bigdog.click:80/cheese1/cheese1/566525
+#EXTINF:-1,TR VIP: DENIZ POSTASI
+http://bigdog.click:80/cheese1/cheese1/566526
+#EXTINF:-1,TR VIP: Discovery ID
+http://bigdog.click:80/cheese1/cheese1/566527
+#EXTINF:-1,TR VIP: DISCOVERY SCIENSE FHD
+http://bigdog.click:80/cheese1/cheese1/566528
+#EXTINF:-1,TR VIP: DISCOVERY SHOWCASE
+http://bigdog.click:80/cheese1/cheese1/566529
+#EXTINF:-1,TR VIP: DIZI SMART Max
+http://bigdog.click:80/cheese1/cheese1/566530
+#EXTINF:-1,TR VIP: Dizi Smart PREMIUM FHD
+http://bigdog.click:80/cheese1/cheese1/566531
+#EXTINF:-1,TR VIP: DOCUBOX
+http://bigdog.click:80/cheese1/cheese1/566532
+#EXTINF:-1,TR VIP: EGE TV
+http://bigdog.click:80/cheese1/cheese1/566533
+#EXTINF:-1,TR VIP: ENO ViZYON 1
+http://bigdog.click:80/cheese1/cheese1/566534
+#EXTINF:-1,TR VIP: ENO ViZYON 10
+http://bigdog.click:80/cheese1/cheese1/566535
+#EXTINF:-1,TR VIP: ENO ViZYON 11
+http://bigdog.click:80/cheese1/cheese1/566536
+#EXTINF:-1,TR VIP: ENO ViZYON 12
+http://bigdog.click:80/cheese1/cheese1/566537
+#EXTINF:-1,TR VIP: ENO ViZYON 13
+http://bigdog.click:80/cheese1/cheese1/566538
+#EXTINF:-1,TR VIP: ENO ViZYON 14
+http://bigdog.click:80/cheese1/cheese1/566539
+#EXTINF:-1,TR VIP: ENO ViZYON 15
+http://bigdog.click:80/cheese1/cheese1/566540
+#EXTINF:-1,TR VIP: ENO VIZYON 2
+http://bigdog.click:80/cheese1/cheese1/566541
+#EXTINF:-1,TR VIP: ENO ViZYON 3
+http://bigdog.click:80/cheese1/cheese1/566542
+#EXTINF:-1,TR VIP: ENO ViZYON 4
+http://bigdog.click:80/cheese1/cheese1/566543
+#EXTINF:-1,TR VIP: ENO ViZYON 5
+http://bigdog.click:80/cheese1/cheese1/566544
+#EXTINF:-1,TR VIP: ENO ViZYON 6
+http://bigdog.click:80/cheese1/cheese1/566545
+#EXTINF:-1,TR VIP: ENO ViZYON 7
+http://bigdog.click:80/cheese1/cheese1/566546
+#EXTINF:-1,TR VIP: ENO VIZYON 8
+http://bigdog.click:80/cheese1/cheese1/566547
+#EXTINF:-1,TR VIP: ENO ViZYON 9
+http://bigdog.click:80/cheese1/cheese1/566548
+#EXTINF:-1,TR VIP: ENO WESTERN
+http://bigdog.click:80/cheese1/cheese1/566549
+#EXTINF:-1,TR VIP: Etv Manisa
+http://bigdog.click:80/cheese1/cheese1/566550
+#EXTINF:-1,TR VIP: FB TV
+http://bigdog.click:80/cheese1/cheese1/566551
+#EXTINF:-1,TR VIP: FIGHT BOX
+http://bigdog.click:80/cheese1/cheese1/566552
