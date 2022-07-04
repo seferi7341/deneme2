@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,AKSiYON HD
-https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
+#EXTINF:-1,STARSPOR
+http://37.221.121.166:8383/hls/trspor/index.m3u8
 #EXTINF:-1,BELGESEL HD
 https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
 #EXTINF:-1,OZEL YAPIM HD
