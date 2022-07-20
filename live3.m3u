@@ -1,6 +1,22 @@
 #EXTM3U
 #EXTINF:-1,STARSPOR
 http://37.221.121.166:8383/hls/trspor/index.m3u8
+#EXTINF: -1 tvg-id="beinsports1.tr" tvg-name="TR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="Turkey➾ Live", TR: beIN Sports 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1735
+#EXTINF: -1 tvg-id="beinmoviesaction.tr" tvg-name="TR: beIN Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" group-title="Turkey➾ Live", TR: beIN Movies Action
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1761
+#EXTINF: -1 tvg-name="TR: beIN Movies Action 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c72fbf1b70577e54df906132c848507.png" group-title="Turkey➾ Live", TR: beIN Movies Action 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/278527
+#EXTINF: -1 tvg-id="beinmoviesfamily.tr" tvg-name="TR: beIN Movies Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/75e47808eb64b20e1611e171c8a17339.png" group-title="Turkey➾ Live", TR: beIN Movies Family
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1763
+#EXTINF: -1 tvg-id="beinmoviespremier.tr" tvg-name="TR: beIN Movies Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c2308f19e292f658c25f7eeb320302c.png" group-title="Turkey➾ Live", TR: beIN Movies Premiere
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1764
+#EXTINF: -1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" group-title="Turkey➾ Live", TR: beIN Movies Premiere 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1765
+#EXTINF: -1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN Movies Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" group-title="Turkey➾ Live", TR: beIN Movies Stars
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1766
+#EXTINF: -1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN Movies Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cdb8893f36235adb4e32d276d5a5d3fb.png" group-title="Turkey➾ Live", TR: beIN Movies Turk
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1767
 #EXTINF:-1,BELGESEL HD
 https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
 #EXTINF:-1,OZEL YAPIM HD
