@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1,beIN Sport 1 Hd
-http://almanya888.com:80/live/ufukucur/GAbhqErmuv/90.ts
+#EXTINF:-1,beIN Sport 1 Hd#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS FHD
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/4649
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 HD
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/18947
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORT 1 FHD (1080p)" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORT 1 FHD (1080p)
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/4658
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HEVC" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 HEVC
+http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/4648
 #EXTINF:-1,Ölümcül Takip
 https://eu1.vod.rdncdn.com/vod4/Movies/AutoTopMovies/TR/OlumculTakip.mp4/index.m3u8
 #EXTINF:-1,Ölümcül Tuzak
