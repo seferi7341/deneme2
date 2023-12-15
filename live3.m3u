@@ -1,56 +1,112 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="TR | FULL", 1TR: NTVSPOR HD
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f4525d90-5593-11ee-b36d-b5080db03173/5302233/934248662.jpeg" group-title="TR | FULL", 2TR: bSPORTS 1 HD
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f4525d90-5593-11ee-b36d-b5080db03173/5302233/934248663.jpeg" group-title="TR | FULL", 3TR: bSPORTS 2 HD
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8rzI5Lo.png" group-title="TR | FULL", S Sport 1
-https://seni.trgoals494.xyz/yayinss.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8rzI5Lo.png" group-title="TR | FULL", S Sport 1 ODİN
-https://odin.8261b5dffc0e.click/i/13/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8rzI5Lo.png" group-title="TR | FULL", S SPORT 1-CAT
-http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20085
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6OUc5oo.png" group-title="TR | FULL", S Sport 2
-https://seni.trgoals494.xyz/yayinss2.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6OUc5oo.png" group-title="TR | FULL", S Sport 2 ODİN
-https://odin.8261b5dffc0e.click/i/14/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6OUc5oo.png" group-title="TR | FULL", S SPORT 2-CAT
-http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/20086
-#EXTINF: -1 tvg-logo="https://i.imgur.com/u5T9cBu.png" group-title="TR | FULL", Tivibu Spor 1
-https://seni.trgoals494.xyz/yayint1.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/u5T9cBu.png" group-title="TR | FULL", Tivibu Spor 1 ODİN
-https://odin.8261b5dffc0e.click/i/9/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eGTZ0xG.png" group-title="TR | FULL", Tivibu Spor 2
-https://seni.trgoals494.xyz/yayint2.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eGTZ0xG.png" group-title="TR | FULL", Tivibu Spor 2 ODİN
-https://odin.8261b5dffc0e.click/i/10/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7bXHgwg.png" group-title="TR | FULL", Tivibu Spor 3
-https://seni.trgoals494.xyz/yayint3.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7bXHgwg.png" group-title="TR | FULL", Tivibu Spor 3 ODİN
-https://odin.8261b5dffc0e.click/i/11/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FQoIm6X.png" group-title="TR | FULL", Tivibu Spor 4 ODİN
-https://odin.8261b5dffc0e.click/i/12/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Lb8ak6B.png" group-title="TR | FULL", SMART SPOR
-https://seni.trgoals494.xyz/yayinsmarts.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Lb8ak6B.png" group-title="TR | FULL", SMART SPOR-CAT
-http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/19465
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qyUKCUa.png" group-title="TR | FULL", SMART 2
-https://seni.trgoals494.xyz/yayinsms2.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qyUKCUa.png" group-title="TR | FULL", SMART 2-CAT
-http://191.96.100.42:8080/oguzakkaya/gUE6cd8QBpz5/19320
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8lTo4K5.png" group-title="TR | FULL", TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zlPgZNn.png" group-title="TR | FULL", Trt Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="TR | FULL", A SPOR
-https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Tfu9kag.png" group-title="TR | FULL", Tv 8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF: 1 tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="TR | FULL", SPORTS TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF: -1 tvg-id="gstv.tr" tvg-name="GS TV HD" tvg-logo="https://i.imgur.com/fC3KuwT.jpg" group-title="TR | FULL", GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b796000_sltur.m3u8
+#EXTINF:-1,|TR| beIN Sports 1 SD [360p]
+http://fr0811.xyz:8080/sns1082/cn.1909/191154
+#EXTINF:-1,|TR| beIN Sports 1 SD [480p]
+http://fr0811.xyz:8080/sns1082/cn.1909/35762
+#EXTINF:-1,|TR| beIN Sports 1 HD Türkiye
+http://fr0811.xyz:8080/sns1082/cn.1909/98925
+#EXTINF:-1,|TR| beIN Sports 1 FHD
+http://fr0811.xyz:8080/sns1082/cn.1909/126272
+#EXTINF:-1,|TR| beIN Sports 1 VIP H265
+http://fr0811.xyz:8080/sns1082/cn.1909/190072
+#EXTINF:-1,|TR| beIN Sports 1 4K [Feed]
+http://fr0811.xyz:8080/sns1082/cn.1909/35650
+#EXTINF:-1,|TR| beIN Sports 1 8K [Feed]
+http://fr0811.xyz:8080/sns1082/cn.1909/191152
+#EXTINF:-1,|TR| beIN Sports 2 SD
+http://fr0811.xyz:8080/sns1082/cn.1909/196216
+#EXTINF:-1,|TR| beIN Sports 2 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/35730
+#EXTINF:-1,|TR| beIN Sports 2 UHD
+http://fr0811.xyz:8080/sns1082/cn.1909/195811
+#EXTINF:-1,|TR| beIN Sports 3 SD
+http://fr0811.xyz:8080/sns1082/cn.1909/196217
+#EXTINF:-1,|TR| beIN Sports 3 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/6097
+#EXTINF:-1,|TR| beIN Sports 3 UHD
+http://fr0811.xyz:8080/sns1082/cn.1909/195812
+#EXTINF:-1,|TR| beIN Sports 4 SD
+http://fr0811.xyz:8080/sns1082/cn.1909/196218
+#EXTINF:-1,|TR| beIN Sports 4 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/6098
+#EXTINF:-1,|TR| beIN Sports 4 UHD
+http://fr0811.xyz:8080/sns1082/cn.1909/195813
+#EXTINF:-1,|TR| beIN Sports 5 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/125936
+#EXTINF:-1,|TR| beIN Sports Max 1
+http://fr0811.xyz:8080/sns1082/cn.1909/6099
+#EXTINF:-1,|TR| beIN Sports Max 2
+http://fr0811.xyz:8080/sns1082/cn.1909/6100
+#EXTINF:-1,|TR| beIN Connect 1 |Mac Saati|
+http://fr0811.xyz:8080/sns1082/cn.1909/137710
+#EXTINF:-1,|TR| beIN Connect 2 |Mac Saati|
+http://fr0811.xyz:8080/sns1082/cn.1909/137711
+#EXTINF:-1,|TR| beIN Connect 3 |Mac Saati|
+http://fr0811.xyz:8080/sns1082/cn.1909/137712
+#EXTINF:-1,|TR| Exxen Spor 1 SD
+http://fr0811.xyz:8080/sns1082/cn.1909/198062
+#EXTINF:-1,|TR| Exxen Spor 1 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/167579
+#EXTINF:-1,|TR| Exxen Spor 1 UHD
+http://fr0811.xyz:8080/sns1082/cn.1909/190754
+#EXTINF:-1,|TR| Exxen Spor 1 FEED
+http://fr0811.xyz:8080/sns1082/cn.1909/194949
+#EXTINF:-1,|TR| Exxen Spor 2 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/98878
+#EXTINF:-1,|TR| Exxen Spor 3 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/98926
+#EXTINF:-1,|TR| Exxen Spor 4 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/101132
+#EXTINF:-1,|TR| Exxen Spor 5 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/101133
+#EXTINF:-1,|TR| Exxen Spor 6 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/101134
+#EXTINF:-1,|TR| Exxen Spor 7 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/101135
+#EXTINF:-1,|TR| Exxen Spor 8 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/101137
+#EXTINF:-1,|TR| Spor Smart 1 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/121246
+#EXTINF:-1,|TR| Spor Smart 1 FHD
+http://fr0811.xyz:8080/sns1082/cn.1909/6108
+#EXTINF:-1,|TR| Spor Smart 2 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/113272
+#EXTINF:-1,|TR| D-Smart EuroSport 1
+http://fr0811.xyz:8080/sns1082/cn.1909/6106
+#EXTINF:-1,|TR| D-Smart EuroSport 2
+http://fr0811.xyz:8080/sns1082/cn.1909/6107
+#EXTINF:-1,|TR| S Sport 1 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/115598
+#EXTINF:-1,|TR| S Sport 2 HD
+http://fr0811.xyz:8080/sns1082/cn.1909/6105
+#EXTINF:-1,|TR| S Sport+1 Mac Saati
+http://fr0811.xyz:8080/sns1082/cn.1909/137713
+#EXTINF:-1,|TR| S Sport+2 Mac Saati
+http://fr0811.xyz:8080/sns1082/cn.1909/137714
+#EXTINF:-1,|TR| S Sport+3 Mac Saati
+http://fr0811.xyz:8080/sns1082/cn.1909/137715
+#EXTINF:-1,|TR| S Sport+4 Mac Saati
+http://fr0811.xyz:8080/sns1082/cn.1909/137716
+#EXTINF:-1,|TR| S Sport+5 Mac Saati
+http://fr0811.xyz:8080/sns1082/cn.1909/137717
+#EXTINF:-1,|TR| Tivibu Spor FHD
+http://fr0811.xyz:8080/sns1082/cn.1909/6101
+#EXTINF:-1,|TR| Tivibu Spor 1 FHD
+http://fr0811.xyz:8080/sns1082/cn.1909/6102
+#EXTINF:-1,|TR| Tivibu Spor 2 FHD
+http://fr0811.xyz:8080/sns1082/cn.1909/6103
+#EXTINF:-1,|TR| Tivibu Spor 3 FHD
+http://fr0811.xyz:8080/sns1082/cn.1909/113254
+#EXTINF:-1,|TR| Tivibu Spor 4 FHD
+http://fr0811.xyz:8080/sns1082/cn.1909/115600
+#EXTINF:-1,|TR| Trt Spor HD
+http://fr0811.xyz:8080/sns1082/cn.1909/6109
+#EXTINF:-1,|TR| Trt Spor Yıldız
+http://fr0811.xyz:8080/sns1082/cn.1909/35774
+#EXTINF:-1,|TR| Nba TV HD
+http://fr0811.xyz:8080/sns1082/cn.1909/6111
+#EXTINF:-1,|TR| A Spor HD
+http://fr0811.xyz:8080/sns1082/cn.1909/6113
 #EXTINF: -1 tvg-id="fbtv.tr" tvg-name="FB TV HD" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="TR | FULL", FB TV
 http://3.troya.today:34000/ch1382/mono.m3u8?token=vintiks.ZtNWjyY1vyzROdHPhXcAmgHOlHdYDw6CtflLpUDe71dEZkUiq-9D8-jrooR0IgZA
 #EXTINF: -1 tvg-name="Eurosport" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="TR | FULL", Eurosport 1
