@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,|TR| beIN Sports 1 SD [360p]
-http://fr0811.xyz:8080/sns1082/cn.1909/191154
-#EXTINF:-1,|TR| beIN Sports 1 SD [480p]
-http://fr0811.xyz:8080/sns1082/cn.1909/35762
+#EXTINF:-1,|TR| CINE6 [360p]
+https://canli.cine6tv.com.tr:3614/stream/play.m3u8
+#EXTINF:-1,|TR| CINE6 MAX [480p]
+https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
 #EXTINF:-1,|TR| beIN Sports 1 HD Türkiye
 http://fr0811.xyz:8080/sns1082/cn.1909/98925
 #EXTINF:-1,|TR| beIN Sports 1 FHD
